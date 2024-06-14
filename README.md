@@ -2,7 +2,7 @@
 Notebook and data for generative models tutorial at OHBM 2024 (Seoul).
 
 A few notes. This tutorial uses the following libraries and you will need them installed:
-1. [numpy[(https://numpy.org/)
+1. [numpy](https://numpy.org/)
 2. [matplotlib](https://matplotlib.org/)
 3. [networkx](https://networkx.org/)
 4. [scipy](https://scipy.org/)
